@@ -21,4 +21,4 @@ This repository contains the tasks completed during the **Arch Technologies Inte
 
 # 👩‍💻 Author
 **Zonaira Tariq** 
-BS Artificial Intelligence – PAF-IAST  
+- BS Artificial Intelligence – PAF-IAST  
