@@ -8,15 +8,15 @@ This repository contains the tasks completed during the **Arch Technologies Inte
 - **Task 2:** Tesla Stock Price Prediction   
   - **LSTM Deep Learning version**
 
-# 🛠️ Tools & Libraries Used
+# Tools & Libraries Used
 - Python
 - Pandas, NumPy, Matplotlib, Seaborn
 - Scikit-Learning
 - TensorFlow / Keras
 
-# 📂 Files in Repository
-- `task1_titanic.ipynb` → Titanic survival prediction  
-- `task2_stock_prediction.ipynb` → Tesla stock price prediction
+# Files in Repository
+- `task1-arch-ds-intern.ipynb` → Titanic survival prediction  
+- `task2-arch-ds-intern.ipyn` → Tesla stock price prediction
 - Both tasks were implemented and tested in **Kaggle Notebook** environment. 
 
 # 👩‍💻 Author
