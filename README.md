@@ -20,5 +20,5 @@ This repository contains the tasks completed during the **Arch Technologies Inte
 - Both tasks were implemented and tested in **Kaggle Notebook** environment. 
 
 # 👩‍💻 Author
-**Zonaira Tariq** 
+- **Zonaira Tariq** 
 - BS Artificial Intelligence – PAF-IAST  
